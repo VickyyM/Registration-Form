@@ -1,3 +1,8 @@
+@media screen and (max-width: 800px) {
+    .container {
+      width: 100%;
+    }
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #DEFDF1;
